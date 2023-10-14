@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: #fff;
+  }
+  
+  .container {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  .logo {
+    width: 10px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  .form-group {
+    width: 300px;
+    padding: 0px;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+  }
+  .form-control {
+    width: 300px;
+    padding: 0px;
+    border: 1px solid #ccc;
+    border-radius: 1px;
+  }
+  
+  .button {
+    width: 300px;
+    background-color: #f5e90b;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
